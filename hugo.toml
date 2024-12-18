@@ -1,17 +1,17 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "科技共享导航站"
+title = "江湖笔者聚合导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "KJGX"
+copyright = "江湖笔者"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，爱分享，科技共享"
+  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，聚合导航，江湖笔者"
   description = "Webstack Hugo版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
@@ -27,11 +27,11 @@ copyright = "KJGX"
   # true显示按钮，false不显示
   enable = true
   # github文件的远程链接，改成自己的
-  url = "https://github.com/zzzhhh1/KJGX1/blob/main/data/webstack.yml"
+  url = "https://github.com/qinyuanchun03/nav/edit/main/data/webstack.yml"
   
 #桌面端右上角code按钮
 [params.github]
-  enable = true #true显示 false隐藏
+  enable = false #true显示 false隐藏
   url = "https://kjgx668.blogspot.com/2024/03/2024vpsvps.html"
   
 [permalinks]  
