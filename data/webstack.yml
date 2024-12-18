@@ -80,7 +80,7 @@
       url:  https://www.toolg.cn/
       description: 支持多种功能的在线工具箱！
       
-- taxonomy: VPS/机场
+- taxonomy: 云服务器
   icon: fa-star
   links: 
     - title: RN-VPS
