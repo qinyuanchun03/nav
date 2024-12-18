@@ -35,19 +35,69 @@
       url: https://jx.moshangyanyu.us.kg
       description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！      
       
-- taxonomy: 办公专区
+- taxonomy: 办公/软件下载
   icon: fa-star
   links: 
-    - title: 江湖笔者博客
-      url: https://blog1.moshangyanyu.us.kg
-      logo: images/jh-blogs/ico.png
-      description: 作者的博客网站
+    - title: WPS聚合分享
+      url: https://www.123684.com/s/AJ3VVv-MrcBd
+      description: 仅支持Win用户，国产系统和Linux用户请不要下载
+    - title: OfficeToolPlus部署工具
+      url: https://otp.landian.vip/zh-cn/
+      description: 免费的office安装激活工具，官方提供操作教学
+    - title: PDF24在线处理网站
+      url: https://tools.pdf24.org/zh/
+      description: 免费的在线PDF处理工具，支持PDF转word等功能
+    - title: 1024程序员在线工具箱
+      url: https://1024tools.com/
+      description: 支持uuid生成，json格式化等多功能的程序员工具箱
+    - title: 第一ppt免费模板素材
+      url: https://www.1ppt.com/
+      description: 免费ppt模板下载站！！！
+    - title: 绿软小站
+      url: https://www.gndown.com/
+      description: 绿色简单的软件下载站，资源丰富
 
+- taxonomy: 编程教学
+  icon: fa-star
+  links: 
+    - title: 菜鸟教学
+      url: https://www.runoob.com/
+      description: 多语言，内容丰富的编程教学网站，提供各类案例解析
+    - title: w3School编程教学
+      url: https://www.w3school.com.cn/html/index.asp
+      description: 多语言，内容丰富的编程教学网站，提供各类案例解析
+    - title: OfficeToolPlus部署工具
+   
+- taxonomy: 在线工具箱
+  icon: fa-star
+  links: 
+    - title: 在线工具
+      url: https://tool.lu/
+      description: 支持多种功能的在线工具箱！
+    - title: 一个工具箱
+      url: http://www.atoolbox.net/
+      description: 支持多种功能的在线工具箱！
+    - title: 工具狗
+      url:  https://www.toolg.cn/
+      description: 支持多种功能的在线工具箱！
+      
 - taxonomy: VPS/机场
   icon: fa-star
   links: 
-    - title: 江湖笔者博客
-      url: https://blog1.moshangyanyu.us.kg
-      logo: images/jh-blogs/ico.png
-      description: 作者的博客网站
+    - title: RN-VPS
+      url:  https://my.racknerd.com/aff.php?aff=11799
+      description: 支持多种功能的在线工具箱！
+    - title: 艾云服务器
+      url:  https://iaclouds.com/aff.php?aff=1878
+      description: 支持多种功能的在线工具箱！
+    - title: 69云
+      url:  https://69yun69.com/auth/register?code=KvFzpz
+      description: 支持多种功能的在线工具箱！
+    - title: 一分机场
+      url:  https://yfjc.xyz/#/register?code=ZCA61k3t
+      description: 支持多种功能的在线工具箱！
+    - title: 三分机场
+      url:  https://shop.sanfen.co/register?code=eXgbn5jO
+      description: 支持多种功能的在线工具箱！
+      
 ---
