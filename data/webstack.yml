@@ -7,5 +7,4 @@
       logo: images/logos/xxx.png
       qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 作者的博客网站
-
-      ---
+---
