@@ -4,7 +4,7 @@
   links: 
     - title: 江湖笔者博客
       url: https://blog1.moshangyanyu.us.kg
-      logo: /static/jh-blogs/ico.png
+      logo: /immg/江湖笔者/ico.png
       qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 作者的博客网站
 ---
