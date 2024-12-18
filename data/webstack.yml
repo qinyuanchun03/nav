@@ -7,6 +7,23 @@
       logo: images/jh-blogs/ico.png
       description: 作者的博客网站
 
+- taxonomy: AI工具
+  icon: fa-star
+  links: 
+    - title: 豆包AI
+      url: https://www.doubao.com/
+      description: 豆包AI，你的专属助手
+    - title: Kimi AI助手
+      url: https://kimi.moonshot.cn/
+      description: Kimi AI助手，支持生成PPT!
+      https://xinghuo.xfyun.cn/
+    - title: 讯飞星火AI
+      url: https://xinghuo.xfyun.cn/
+      description: 国产科大讯飞AI 
+    - title: 百度文心一言
+      url: https://yiyan.baidu.com/welcome
+      description: 国产科大讯飞AI 
+
 - taxonomy: 影视音乐
   icon: fa-star
   links:   
@@ -95,7 +112,5 @@
     - title: 三分机场
       url: https://shop.sanfen.co/register?code=eXgbn5jO
       description: 请去官网查查看
-    - title: 69yun
-      url: https://69yun69.com/auth/register?code=KvFzpz
-      description: 请去官网查查看      
+ 
 ---
