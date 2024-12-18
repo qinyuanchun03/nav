@@ -5,15 +5,29 @@
     - title: 江湖笔者博客
       url: https://blog1.moshangyanyu.us.kg
       logo: images/jh-blogs/ico.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 作者的博客网站
 
-- taxonomy: 常用工具
+- taxonomy: 影视音乐
   icon: fa-star
   links: 
     - title: 江湖笔者博客
       url: https://blog1.moshangyanyu.us.kg
-      logo: immg/jh-blog/ico.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+      logo: images/jh-blogs/ico.png
+      description: 作者的博客网站
+
+- taxonomy: 办公专区
+  icon: fa-star
+  links: 
+    - title: 江湖笔者博客
+      url: https://blog1.moshangyanyu.us.kg
+      logo: images/jh-blogs/ico.png
+      description: 作者的博客网站
+
+- taxonomy: VPS/机场
+  icon: fa-star
+  links: 
+    - title: 江湖笔者博客
+      url: https://blog1.moshangyanyu.us.kg
+      logo: images/jh-blogs/ico.png
       description: 作者的博客网站
 ---
