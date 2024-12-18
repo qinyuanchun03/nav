@@ -9,39 +9,10 @@
 
 - taxonomy: 影视音乐
   icon: fa-star
-  links: 
+  links:   
     - title: 落雪音乐免费下载+免费音源
       url: https://www.123684.com/s/AJ3VVv-IrcBd
-      logo: 
-      description: 免费开源的音乐软件，支持安卓和Windows，Linux（国产系统）
-    - title: hw吧影视资源站
-      url: https://huaweiba.live/
-      logo: 
-      description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！
-    - title: 樱花资源网
-      url: https://yhzy.cc//
-      logo: 
-      description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！
-    - title: 云解析网
-      url: https://www.yparse.com/help
-      logo: 
-      description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！
-    - title: IKUN资源
-      url: https://www.ikunzy.com/
-      logo: 
-      description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！
-   - title: 非凡资源网
-      url: http://ffzy.tv/
-      logo: 
-      description: 免费的在线影视网站，借助m3u8解析工具可在线观看，全程免费！
-   - title: 江湖在线视频解析站1
-      url: https://jxhuawei.qinyuanchun-blog.us.kg
-      logo: 
-      description: 免费的在线影视网站，搜索你想看的，直接播放即可，全程免费！
-   - title: 江湖在线视频解析站2
-      url: https://jx.moshangyanyu.us.kg
-      logo: 
-      description: 免费的在线影视网站，搜索你想看的，直接播放即可，全程免费！
+      description: 作者的博客网站
 
 - taxonomy: 办公专区
   icon: fa-star
