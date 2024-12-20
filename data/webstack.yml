@@ -22,6 +22,72 @@
     - title: 百度文心一言
       url: https://yiyan.baidu.com/welcome
       description: 国产科大讯飞AI 
+
+- taxonomy: 网络和浏览器相关
+  icon: fa-star
+  links: 
+    - title: ITdog在线工具
+      url: https://www.itdog.cn/
+      description: 测试域名，IP，路由追踪等功能      
+    - title: IP.sb在线IP鉴别工具
+      url: https://ip.sb/
+      description: 在线识别你的IP，ASN，服务商等
+     - title: WhatisMYIP
+      url: https://whatismyipaddress.com/
+      description: 在线识别你的IP，ASN，服务商等    
+     - title: crx搜搜插件大集合
+      url: https://www.crxsoso.com/
+      description: 在线识别你的IP，ASN，服务商等          
+
+- taxonomy: 小说专区
+  icon: fa-star
+  links: 
+    - title: 笔趣阁免费小鼠
+      url: https://www.bqgui.cc/
+      description: 免费小说聚集地
+    - title: PD文学
+      url: https://www.pofans.com/
+      description: 免费小说聚集地
+     - title: 全本小说
+      url: https://www.quanben.so/
+      description: 免费小说聚集地     
+     - title: 聚小说
+      url: https://www.juxiaoshuo.net/
+      description: 免费小说聚集地
+
+- taxonomy: 安卓小巧好用的软件
+  icon: fa-star
+  links: 
+    - title: via浏览器
+      url: https://viayoo.com/zh-cn/
+      description: 免费小说聚集地
+    - title: x浏览器
+      url: https://www.xbext.com/
+      description: 免费小说聚集地       
+    - title: via和x浏览器广告屏蔽规则
+      url: https://blog1.moshangyanyu.us.kg/via/
+      description: 免费小说聚集地      
+    - title: OnlyOffice手机版（支持iOS）
+      url: https://download.onlyoffice.com/install/mobile/android/onlyoffice-documents.apk
+      description: 支持Word/excel/ppt/pdf等主流格式，完全免费,点击开始下载
+    - title: 开源：阅读软件
+      url: https://gedoor.github.io/download
+      description: 开源免费的手机端多格式阅读软件
+    - title: 开源：阅读软件：书源
+      url: https://bolg.nanshunkj.com/2024/11/25/260.html
+      description: 开源免费的手机端多格式阅读软件
+    - title: Obsidian笔记软件
+      url: https://wwdx.lanzoue.com/b030yr97g
+      description: 免费多功能，可自定义云盘备份的笔记软件
+    - title: 安卓谷歌商店
+      url: https://www.gndown.com/4319.html
+      description: 请结合参考资料使用，避免影响正常使用
+    - title: AD广告拦截器
+      url: https://www.gndown.com/6054.html
+      description: 请结合参考资料使用，避免影响正常使用
+    - title: 李跳跳广告拦截
+      url: https://www.gndown.com/4029.html
+      description: 请结合参考资料使用，避免影响正常使用
       
 - taxonomy: 影视音乐
   icon: fa-star
@@ -113,5 +179,13 @@
       description: 请去官网查查看
     - title: 此部分介绍
       url: https://blog1.moshangyanyu.us.kg/free-personal-node/
-      description: 请去官网查查看      
+      description: 请去官网查查看
+
+- taxonomy: 联系作者
+  icon: fa-star
+  links: 
+    - title: 来这里看看吧
+      url: https://blog1.moshangyanyu.us.kg/index/https://blog1.moshangyanyu.us.kg/index/
+      description: 想去催更，快去看看！ 
+      
 ---
