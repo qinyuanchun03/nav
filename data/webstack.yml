@@ -26,7 +26,19 @@
 - taxonomy: 网络和浏览器相关
   icon: fa-star
   links: 
-
+    - title: ITdog在线工具
+      url: https://www.itdog.cn/
+      description: 测试域名，IP，路由追踪等功能
+    - title: IP.sb在线IP鉴别工具
+      url: https://ip.sb/
+      description: 测试域名，IP，路由追踪等功能
+    - title: WhatisMYIP
+      url: https://whatismyipaddress.com/
+      description: 测试域名，IP，路由追踪等功能
+    - title: crx搜搜插件大集合
+      url: https://whatismyipaddress.com/
+      description: 好用的浏览器扩展，都在这里下载   
+      
 - taxonomy: 小说专区
   icon: fa-star
   links: 
