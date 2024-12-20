@@ -42,7 +42,20 @@
 - taxonomy: 小说专区
   icon: fa-star
   links: 
+    - title: 笔趣阁免费小鼠
+      url: https://www.bqgui.cc/
+      description: 免费小说聚集地
+    - title: PD文学
+      url: https://www.pofans.com/
+      description: 免费小说聚集地  
+    - title: 全本小说
+      url: https://www.quanben.so/
+      description: 免费小说聚集地 
+    - title: 聚小说
+      url: https://www.juxiaoshuo.net/
+      description: 免费小说聚集地 
 
+      
 - taxonomy: 安卓小巧好用的软件
   icon: fa-star
   links: 
